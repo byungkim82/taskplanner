@@ -1,3 +1,3 @@
 # E-Rebuild Task Planner
-#
-# Please file issues here.
+
+Please file issues here.
