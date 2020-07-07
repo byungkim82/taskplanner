@@ -1,6 +1,6 @@
 ## E-Rebuild Task Planner
 
-Please file issues here.
+Please file issues here on the **Issues** tab.
 
 1. Collecting only
 - [IslandCollect01] (https://mileresearch.coe.fsu.edu/taskplanner/app/islandcollect01)
