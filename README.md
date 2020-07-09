@@ -42,3 +42,12 @@ Please file issues here on the **Issues** tab.
 - [FarmArea01] (https://mileresearch.coe.fsu.edu/taskplanner/app/farmarea01)
 - [FarmPerimeter01] (https://mileresearch.coe.fsu.edu/taskplanner/app/farmperimeter01)
 
+**6. Allocating**
+- [FarmVolume01] (https://mileresearch.coe.fsu.edu/taskplanner/app/farmvolume01) allocating only
+- [DesertFill01] (https://mileresearch.coe.fsu.edu/taskplanner/app/desertfill01) + collecting
+- [IslandFill01] (https://mileresearch.coe.fsu.edu/taskplanner/app/islandfill01) + collecting
+- [IslandFill02] (https://mileresearch.coe.fsu.edu/taskplanner/app/islandfill02) + collecting
+- [IslandFill03] (https://mileresearch.coe.fsu.edu/taskplanner/app/islandfill03) + collecting
+- [SchoolAssignment01] (https://mileresearch.coe.fsu.edu/taskplanner/app/schoolassignment01) + collecting
+- [SchoolPlacement01] (https://mileresearch.coe.fsu.edu/taskplanner/app/schoolassignment01) + collecting, placing
+
