@@ -1,4 +1,4 @@
-# allocating
+# TaskPlanner: Allocating
 
 ## Project setup
 ```
